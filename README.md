@@ -30,4 +30,4 @@ SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://dt_admin:dt2016@localhost/drea
 
 3º - Don't forget to run on the terminal the command 2 and 3 of the "How to run it". Every time I modified the code I had to run it.
 
-4º - The HTML/CSS page isn't work well and it doesn't look very nice at the moment. I make it better.
+4º - The HTML/CSS page isn't working well and it doesn't look very nice at the moment. I'll make it better soon.
