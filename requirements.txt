@@ -12,7 +12,6 @@ Jinja2==2.10.3
 Mako==1.1.0
 MarkupSafe==1.1.1
 mysql-connector-python==8.0.18
-pkg-resources==0.0.0
 protobuf==3.11.2
 PyMySQL==0.9.3
 python-dateutil==2.8.1
